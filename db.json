@@ -1,0 +1,7 @@
+{
+  "movies": [
+    {"id": 1, "title": "Star Wars", "Duratioin": "Two Hours"},
+    {"id": 2, "title": "Wish Wash", "Duratioin": "Three Hours"},
+    {"id": 3, "title": "Olympus has fallen", "Duratioin": "1 hr 30mins"}
+  ]
+}
